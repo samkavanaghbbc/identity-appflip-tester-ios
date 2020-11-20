@@ -417,15 +417,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "AppFlip-Test-Tool-iOS/AppFlip-Test-Tool-iOS.entitlements";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = EQHXZ8M8AV;
+				DEVELOPMENT_TEAM = N53624Z834;
 				INFOPLIST_FILE = "AppFlip-Test-Tool-iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.experimental2.dev;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.co.bbc.AuthToolkitIntegrationApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "Experimental App 2 Dev";
+				PROVISIONING_PROFILE_SPECIFIER = "BBC AuthToolkit Integration Enterprise Development";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -437,15 +437,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "AppFlip-Test-Tool-iOS/AppFlip-Test-Tool-iOS.entitlements";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = EQHXZ8M8AV;
+				DEVELOPMENT_TEAM = N53624Z834;
 				INFOPLIST_FILE = "AppFlip-Test-Tool-iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.experimental2.dev;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.co.bbc.AuthToolkitIntegrationApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "Experimental App 2 Dev";
+				PROVISIONING_PROFILE_SPECIFIER = "BBC AuthToolkit Integration Enterprise Development";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
