@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>appFlipLinkAddress</key>
-	<string>https://insert-your-universal-link-here</string>
+	<string>https://bbc.com/AuthToolkitSandbox</string>
 	<key>clientID</key>
 	<string>1234</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>state</key>
 	<string>thisisastate</string>
 	<key>redirectUri</key>
-	<string>https://insert-return-universal-link-here</string>
+	<string>https://bbc.com/AuthToolkitIntegrationApp</string>
 </dict>
 </plist>
